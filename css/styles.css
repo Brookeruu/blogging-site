@@ -1,0 +1,13 @@
+body {
+  margin: 12px;
+  background-color: teal;
+}
+
+.blog-post {
+  font-family: fantasy;
+}
+
+.about-me {
+  font-style: italic;
+  color: darkgrey;
+}
